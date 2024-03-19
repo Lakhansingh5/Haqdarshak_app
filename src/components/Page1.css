@@ -1,0 +1,34 @@
+.Page1 {
+  height: 650px;
+  display: grid;
+}
+.Page2 {
+  max-width: 360px;
+  color: var(--Grey-white, #4f285e);
+  font-family: "Noto Sans", Poppins, sans-serif;
+  background-color: #fae4fd;
+  border-radius: 20px;
+  font-size: 15px;
+  text-align: start;
+  margin: 0 auto;
+}
+
+.getting {
+  margin-top: 150px;
+  margin-left: 40px;
+  text-decoration: none;
+}
+.underline {
+  border-bottom: 10px solid #a24857;
+  width: 200px;
+  color: #fae4fd;
+  padding: 0px 30px ;
+}
+
+.img {
+  height: 250px;
+  margin-left: -10px;
+  margin-bottom:-50px ;
+  /* line-height: 100px; */
+  width: auto;
+}

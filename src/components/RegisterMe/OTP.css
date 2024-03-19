@@ -1,0 +1,109 @@
+.OTP1 {
+  width: 360px;
+  height: 600px;
+  margin: 0 auto;
+  color: var(--Grey-white, white);
+  background-color: #4f285e;
+  border-radius: 20px;
+}
+.OTP2 {
+  font-family: "Noto Sans", Poppins, sans-serif;
+  letter-spacing: 2px;
+  margin-top: 20px;
+  font-size: 14px;
+}
+
+.OTP1 h1 {
+  margin-left: 30px;
+  font-weight: 400;
+  font-size: 26px;
+}
+
+.arrow {
+  margin-top: 40px;
+  color: #4f285e;
+  background-color: #edeae0;
+  height: 30px;
+  width: 50px;
+  border-radius: 25px;
+  align-items: center;
+  text-align: center;
+}
+
+.OTP3 {
+  max-width: 380px;
+  color: var(--Grey-white);
+  font-family: "Noto Sans", Poppins, sans-serif;
+  display: grid;
+  height: 70vh;
+  background-color: #fff;
+  border-radius: 20px;
+  /* Add shadow effect here */
+  box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.1);
+}
+
+.OTP4 {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: center;
+  justify-content: center;
+  margin: 30px;
+  margin-top: 20px;
+  
+
+}
+
+.OTP4 label {
+  padding: 5px;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  width: 280px;
+  height: 50px;
+  background-color: #f0f0f0;
+  border-radius: 20px;
+  color: #4f285e;
+  font-size: 14px;
+}
+
+.OTP4 input {
+  padding: 5px;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+
+  background-color: #f0f0f0;
+  border-radius: 20px;
+  color: #4f285e;
+}
+
+p {
+  height: 30px;
+  width: 250px;
+  margin-top: -50px;
+  font-size: 12px;
+  margin-left: 40px;
+  color: grey;
+  display: inline;
+}
+
+.OTP4 input[type="radio"] {
+  margin-right: 10px;
+}
+
+.button4 {
+  font-family: "Noto Sans", Poppins, sans-serif;
+  background-color: #4f285e;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 50px;
+  cursor: pointer;
+  width: 250px;
+  height: 50px;
+  margin-left: 60px;
+  margin-top: 50px;
+}

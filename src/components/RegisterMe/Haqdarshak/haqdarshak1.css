@@ -1,0 +1,40 @@
+.Haqdarshak1 {
+  height: 650px;
+  display: grid;
+}
+
+.Haqdarshak2 {
+  width: 360px;
+  color: var(--Grey-white, #4f285e);
+  font-family: "Noto Sans", Poppins, sans-serif;
+  background-image: url("Logo2.png"); /* Specify the path to your image */
+  background-size: cover; /* Cover the entire container */
+  background-position: center; /* Center the image */
+  border-radius: 20px;
+  font-size: 15px;
+  text-align: start;
+  margin: 0 auto;
+
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+}
+
+.Haqdarshak2 h1,
+h3 {
+  color: #fff;
+  margin-top: 240px;
+  display: grid;
+
+}
+.Haqdarshak2 span{
+  font-size: 14px;
+  margin-bottom: 20px;
+
+}
+
+.Haqdarshak2 p{
+  font-size: 14px;
+  margin-left: -0px;
+  color: lightgray;
+}

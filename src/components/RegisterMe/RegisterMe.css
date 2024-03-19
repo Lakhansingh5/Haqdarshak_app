@@ -1,0 +1,100 @@
+.register1 {
+  width: 360px;
+  height: 600px;
+  margin: 0 auto;
+  color: var(--Grey-white, white);
+  background-color: #4f285e;
+  border-radius: 20px;
+}
+.register2 {
+  font-family: "Noto Sans", Poppins, sans-serif;
+  letter-spacing: 2px;
+  margin-top: 20px;
+  font-size: 14px;
+}
+
+.register1 h1 {
+  margin-left: 30px;
+  font-weight: 400;
+}
+
+.arrow {
+  margin-top: 40px;
+  color: #4f285e;
+  background-color: #edeae0;
+  height: 30px;
+  width: 50px;
+  border-radius: 25px;
+  align-items: center;
+  text-align: center;
+}
+
+.register3 {
+  max-width: 380px;
+  color: var(--Grey-white);
+  font-family: "Noto Sans", Poppins, sans-serif;
+  display: flex;
+  height: 70vh;
+  background-color: #fff;
+  border-radius: 20px;
+  /* Add shadow effect here */
+  box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.1);
+}
+
+.register4 {
+  display: grid;
+  align-items: center;
+  justify-content: center;
+  margin-left: 35px;
+}
+
+.register4 select {
+  padding: 5px;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  width: 280px;
+  height: 50px;
+  background-color: #f0f0f0;
+  border-radius: 20px;
+  color: #4f285e;
+}
+
+h2 {
+  width: 100%;
+  text-align: center;
+  border-bottom: 1px solid #000;
+  line-height: 0em;
+  margin: 10px 0 300px;
+  font-size: 14px;
+}
+
+h2 span {
+  color: grey;
+  padding: 0 10px;
+}
+
+.loaction {
+  font-size: 14px;
+  color: #000;
+  margin-top: -500px;
+  width: 300px;
+  height: 40px;
+  background-color: #f0f0f0;
+  border-radius: 30px;
+  text-align: center;
+  justify-content: space-between;
+  letter-spacing: 2px;
+  padding: 5px;
+
+}
+
+
+.Liocn{
+    font-size: 16px;
+    text-align: center;
+    margin-top: 10px;
+    margin-right: 10px;
+
+
+}
